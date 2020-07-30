@@ -11,4 +11,4 @@ Folgende Infos braucht das Programm
 
 Danach auf den Button und der Link ist in der Zwischenablage.
 Das Programm sollte solange gehen bis die HM iwas am URL ändert.
-MEin erstes Python Programm also safe gut was zu korrigieren.
+Mein erstes Python Programm also safe gut was zu korrigieren.
