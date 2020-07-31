@@ -10,7 +10,7 @@ portalStringAnker = "&Portal"
 
 window = Tk()
 window.title("FHM Notenspiegel Tool")
-window.geometry('800x200')
+window.geometry('500x200')
 
 # Labels fuer alle Sachen
 lbltxtURL = Label(window, text="URL: ")
@@ -97,7 +97,7 @@ def clicked():
     clipboard.copy(notenSpiegelURL)
 
 
-btn = Button(window, text="URL in Zwischenablage", command=clicked)
+btn = Button(window, text=" URL in Zwischenablage ", command=clicked)
 btn.grid(column=0, row=7)
 
 window.mainloop()
