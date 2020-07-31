@@ -2,11 +2,12 @@
 Kleines Programm um den Notenspiegel-Link einer Prüfung zu bekommen. 
 Folgende Infos braucht das Programm
 - URL von Primuss nach dem Einloggen
-- Studiengang Kürzel
+- Studiengang Kürzel. Zweistellig.
   - Beispiele
     - BI = BauIngenieur Bachelor
     - MF = Mechatronik Master
     - WI = Wirtschaftsingenieur Bachelor
+- Prüfungsnummer -> Aus der Anmeldung. Ist dreistellig.
 - Angabe ob Bachelor oder Master
 
 Danach auf den Button und der Link ist in der Zwischenablage.
