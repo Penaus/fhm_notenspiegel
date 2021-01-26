@@ -20,4 +20,5 @@ https://www3.primuss.de/cgi-bin/sesam/index.pl?FH=fhm&Session=XXXX&User=YYYYY&Po
 Die XXX stehen für random Buchstaben die der Session Key sind. Die YYY sind die Magnetkartennummer.
 2. Den URL wie aus der URL Leiste in das Programm einfügen.
 3. Einstellen welche Prüfungsnummer (-> Prüfungsanmeldung -> Dreistellige Nummer), Studiengangskürzel, Angabe ob Bachelor oder Master.
-4. Den Button klicken und dann im selben Browser aufrufen. Da Shibbaloth (Login-Server) Cookies setzt muss es der selbe Browser wie beim Login sein.
+4. Den Button klicken. Die angepasste URL ist jetzt in der Zwischenablage. 
+5. Dann im selben Browser aufrufen. Da Shibbaloth (Login-Server) Cookies setzt muss es der selbe Browser wie beim Login sein.
