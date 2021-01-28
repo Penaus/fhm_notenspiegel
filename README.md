@@ -2,10 +2,9 @@
 Kleines Programm um den Notenspiegel-Link einer Prüfung zu bekommen. 
 Folgende Infos braucht das Programm
 - URL von Primuss nach dem Einloggen
-- Studiengang Kürzel. Zweistellig.
-    Findet Ihr unter Primuss - Services - Prüfungsanmeldung - PDF rauslassen -> In der Tabelle sichtbar
+- Studiengang aus der Liste im Programm aussuchen.    
 - Prüfungsnummer -> Aus der Anmeldungs PDF. Ist dreistellig.
-- Angabe ob Bachelor oder Master. Bei AW Fächern leer lassen.
+- Angabe ob Bachelor oder Master. Bei AW Fächern leer.
 
 Danach auf den Button und der Link ist in der Zwischenablage.
 Das Programm sollte solange gehen bis die HM iwas am URL ändert.
