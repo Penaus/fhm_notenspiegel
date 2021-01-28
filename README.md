@@ -3,29 +3,7 @@ Kleines Programm um den Notenspiegel-Link einer Prüfung zu bekommen.
 Folgende Infos braucht das Programm
 - URL von Primuss nach dem Einloggen
 - Studiengang Kürzel. Zweistellig.
-  Findet Ihr unter Primuss - Services - Prüfungsanmeldung - PDF rauslassen -> In der Tabelle sichtbar
-  - Beispiele
-    - AR = Architektur Bachelor/Master
-    - BI/BN = BauIngenieur Bachelor/Master
-    - BW = BWL Bachelor/Master
-    - CH = Chemische Technik Bachelor
-    - EL = Elektrotechnik Master
-    - EM = Elektrotechnik Elektromobilität Bachelor
-    - RE = Elektrotechnik	Regenerative Energien Bachelor
-    - FA = Fahrzeugtechnik Bachelor/Master
-    - GT = Gebäudetechnik Master
-    - IF/IG = Informatik Bachlor/Master
-    - LR = Luft- und Raumfahrttechnik Bachelor/Master
-    - MB = Maschinenbau Bachelor/Master
-    - MF = Mechatronik Bachelor/Master
-    - MT = Mechatronik Teilzeit
-    - SB = Soz.Arbeit BASA
-    - SR = Soz.Arbeit Teilzeit Bachelor
-    - SW = Soz.Arbeit Bachelor
-    - TR = Tourismus-Management Bachelor/Master
-    - WI = Wirtschaftsingenieur Bachelor
-    
-    - AW = AW Prüfung
+    Findet Ihr unter Primuss - Services - Prüfungsanmeldung - PDF rauslassen -> In der Tabelle sichtbar
 - Prüfungsnummer -> Aus der Anmeldungs PDF. Ist dreistellig.
 - Angabe ob Bachelor oder Master. Bei AW Fächern leer lassen.
 
